@@ -1,0 +1,6 @@
+.idea
+**/allure-results
+**/allure-report
+**/bin
+**/obj
+**/testExecution.log

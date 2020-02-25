@@ -1,0 +1,117 @@
+2020-02-25 17:30:29.7840|DEBUG|nunit_selenious_example.Tests|Starting Test!
+2020-02-25 17:30:29.8340|INFO|Selenious.Implementation.WebDriverThreadLocalContainer|Marked driver in thread 13 for autoclose
+2020-02-25 17:30:30.0182|INFO|Selenious.DriverСommands.LazyDriver|No webdriver is bound to current thread: 13 - let's create a new webdriver
+2020-02-25 17:30:30.0197|INFO|Selenious.WebDriver.WebDriverFactory|browser Chrome
+2020-02-25 17:30:34.7542|DEBUG|Selenious.WebDriver.ChromeDriverFactory|Chrome options: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {}
+}
+2020-02-25 17:30:36.1489|INFO|Selenious.WebDriver.BrowserResizer|Set browser size to 1366x768
+2020-02-25 17:30:36.2667|INFO|Selenious.DriverСommands.CreateDriverCommand|Create webdriver in current thread: 13 : ChromeDriver
+2020-02-25 17:30:46.2306|INFO|Selenious.DriverСommands.LazyDriver|attemps to run close command
+2020-02-25 17:30:46.2306|INFO|Selenious.DriverСommands.LazyDriver|Close webdriver: 13 => OpenQA.Selenium.Chrome.ChromeDriver
+2020-02-25 17:30:46.2319|INFO|Selenious.DriverСommands.CloseDriverCommand|Close webdriver: 13 => OpenQA.Selenium.Chrome.ChromeDriver
+2020-02-25 17:30:46.3183|DEBUG|nunit_selenious_example.Tests|Test is finished!
+2020-02-25 17:31:02.5272|DEBUG|nunit_selenious_example.Tests|Starting Test!
+2020-02-25 17:31:02.5683|INFO|Selenious.Implementation.WebDriverThreadLocalContainer|Marked driver in thread 13 for autoclose
+2020-02-25 17:31:02.7262|INFO|Selenious.DriverСommands.LazyDriver|No webdriver is bound to current thread: 13 - let's create a new webdriver
+2020-02-25 17:31:02.7276|INFO|Selenious.WebDriver.WebDriverFactory|browser Chrome
+2020-02-25 17:31:03.6630|DEBUG|Selenious.WebDriver.ChromeDriverFactory|Chrome options: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {}
+}
+2020-02-25 17:31:04.6336|INFO|Selenious.WebDriver.BrowserResizer|Set browser size to 1366x768
+2020-02-25 17:31:04.7523|INFO|Selenious.DriverСommands.CreateDriverCommand|Create webdriver in current thread: 13 : ChromeDriver
+2020-02-25 17:31:12.8219|INFO|Selenious.DriverСommands.LazyDriver|attemps to run close command
+2020-02-25 17:31:12.8227|INFO|Selenious.DriverСommands.LazyDriver|Close webdriver: 13 => OpenQA.Selenium.Chrome.ChromeDriver
+2020-02-25 17:31:12.8227|INFO|Selenious.DriverСommands.CloseDriverCommand|Close webdriver: 13 => OpenQA.Selenium.Chrome.ChromeDriver
+2020-02-25 17:31:12.9051|DEBUG|nunit_selenious_example.Tests|Test is finished!
+2020-02-25 17:32:24.4205|DEBUG|nunit_selenious_example.Tests|Starting Test!
+2020-02-25 17:32:24.4658|INFO|Selenious.Implementation.WebDriverThreadLocalContainer|Marked driver in thread 13 for autoclose
+2020-02-25 17:32:24.6434|INFO|Selenious.DriverСommands.LazyDriver|No webdriver is bound to current thread: 13 - let's create a new webdriver
+2020-02-25 17:32:24.6449|INFO|Selenious.WebDriver.WebDriverFactory|browser Chrome
+2020-02-25 17:32:25.8772|DEBUG|Selenious.WebDriver.ChromeDriverFactory|Chrome options: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {}
+}
+2020-02-25 17:32:26.8118|INFO|Selenious.WebDriver.BrowserResizer|Set browser size to 1366x768
+2020-02-25 17:32:26.9287|INFO|Selenious.DriverСommands.CreateDriverCommand|Create webdriver in current thread: 13 : ChromeDriver
+2020-02-25 17:32:34.5442|INFO|Selenious.DriverСommands.LazyDriver|attemps to run close command
+2020-02-25 17:32:34.5451|INFO|Selenious.DriverСommands.LazyDriver|Close webdriver: 13 => OpenQA.Selenium.Chrome.ChromeDriver
+2020-02-25 17:32:34.5459|INFO|Selenious.DriverСommands.CloseDriverCommand|Close webdriver: 13 => OpenQA.Selenium.Chrome.ChromeDriver
+2020-02-25 17:32:34.6315|DEBUG|nunit_selenious_example.Tests|Test is finished!
+2020-02-25 17:33:29.7800|DEBUG|nunit_selenious_example.Tests|Starting Test!
+2020-02-25 17:33:29.8206|INFO|Selenious.Implementation.WebDriverThreadLocalContainer|Marked driver in thread 13 for autoclose
+2020-02-25 17:33:29.9750|INFO|Selenious.DriverСommands.LazyDriver|No webdriver is bound to current thread: 13 - let's create a new webdriver
+2020-02-25 17:33:29.9765|INFO|Selenious.WebDriver.WebDriverFactory|browser Chrome
+2020-02-25 17:33:30.9256|DEBUG|Selenious.WebDriver.ChromeDriverFactory|Chrome options: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {}
+}
+2020-02-25 17:33:31.9501|INFO|Selenious.WebDriver.BrowserResizer|Set browser size to 1366x768
+2020-02-25 17:33:32.0659|INFO|Selenious.DriverСommands.CreateDriverCommand|Create webdriver in current thread: 13 : ChromeDriver
+2020-02-25 17:35:02.1532|DEBUG|nunit_selenious_example.Tests|Starting Test!
+2020-02-25 17:35:02.2028|INFO|Selenious.Implementation.WebDriverThreadLocalContainer|Marked driver in thread 13 for autoclose
+2020-02-25 17:35:02.3907|INFO|Selenious.DriverСommands.LazyDriver|No webdriver is bound to current thread: 13 - let's create a new webdriver
+2020-02-25 17:35:02.3924|INFO|Selenious.WebDriver.WebDriverFactory|browser Chrome
+2020-02-25 17:35:07.5013|DEBUG|Selenious.WebDriver.ChromeDriverFactory|Chrome options: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {}
+}
+2020-02-25 17:35:08.7126|INFO|Selenious.WebDriver.BrowserResizer|Set browser size to 1366x768
+2020-02-25 17:35:08.8313|INFO|Selenious.DriverСommands.CreateDriverCommand|Create webdriver in current thread: 13 : ChromeDriver
+2020-02-25 17:36:14.8994|DEBUG|nunit_selenious_example.Tests|Starting Test!
+2020-02-25 17:36:14.9600|INFO|Selenious.Implementation.WebDriverThreadLocalContainer|Marked driver in thread 13 for autoclose
+2020-02-25 17:36:15.1406|INFO|Selenious.DriverСommands.LazyDriver|No webdriver is bound to current thread: 13 - let's create a new webdriver
+2020-02-25 17:36:15.1423|INFO|Selenious.WebDriver.WebDriverFactory|browser Chrome
+2020-02-25 17:36:16.1455|DEBUG|Selenious.WebDriver.ChromeDriverFactory|Chrome options: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {}
+}
+2020-02-25 17:36:17.3417|INFO|Selenious.WebDriver.BrowserResizer|Set browser size to 1366x768
+2020-02-25 17:36:17.4622|INFO|Selenious.DriverСommands.CreateDriverCommand|Create webdriver in current thread: 13 : ChromeDriver
+2020-02-25 17:38:32.0987|DEBUG|nunit_selenious_example.Tests|Starting Test!
+2020-02-25 17:38:32.1391|INFO|Selenious.Implementation.WebDriverThreadLocalContainer|Marked driver in thread 13 for autoclose
+2020-02-25 17:38:32.3094|INFO|Selenious.DriverСommands.LazyDriver|No webdriver is bound to current thread: 13 - let's create a new webdriver
+2020-02-25 17:38:32.3109|INFO|Selenious.WebDriver.WebDriverFactory|browser Chrome
+2020-02-25 17:38:33.5414|DEBUG|Selenious.WebDriver.ChromeDriverFactory|Chrome options: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {}
+}
+2020-02-25 17:38:34.4669|INFO|Selenious.WebDriver.BrowserResizer|Set browser size to 1366x768
+2020-02-25 17:38:34.5890|INFO|Selenious.DriverСommands.CreateDriverCommand|Create webdriver in current thread: 13 : ChromeDriver
+2020-02-25 17:38:42.2676|INFO|Selenious.DriverСommands.LazyDriver|attemps to run close command
+2020-02-25 17:38:42.2682|INFO|Selenious.DriverСommands.LazyDriver|Close webdriver: 13 => OpenQA.Selenium.Chrome.ChromeDriver
+2020-02-25 17:38:42.2690|INFO|Selenious.DriverСommands.CloseDriverCommand|Close webdriver: 13 => OpenQA.Selenium.Chrome.ChromeDriver
+2020-02-25 17:38:42.3571|DEBUG|nunit_selenious_example.Tests|Test is finished!
+2020-02-25 17:38:42.4028|DEBUG|nunit_selenious_example.Tests|Starting Test!
+2020-02-25 17:38:42.4929|INFO|Selenious.DriverСommands.LazyDriver|No webdriver is bound to current thread: 13 - let's create a new webdriver
+2020-02-25 17:38:42.4929|INFO|Selenious.WebDriver.WebDriverFactory|browser Chrome
+2020-02-25 17:38:43.3273|DEBUG|Selenious.WebDriver.ChromeDriverFactory|Chrome options: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {}
+}
+2020-02-25 17:38:44.2106|INFO|Selenious.WebDriver.BrowserResizer|Set browser size to 1366x768
+2020-02-25 17:38:44.3299|INFO|Selenious.DriverСommands.CreateDriverCommand|Create webdriver in current thread: 13 : ChromeDriver
+2020-02-25 17:39:37.8002|DEBUG|nunit_selenious_example.Tests|Starting Test!
+2020-02-25 17:39:37.8352|INFO|Selenious.Implementation.WebDriverThreadLocalContainer|Marked driver in thread 12 for autoclose
+2020-02-25 17:39:37.9846|INFO|Selenious.DriverСommands.LazyDriver|No webdriver is bound to current thread: 12 - let's create a new webdriver
+2020-02-25 17:39:37.9861|INFO|Selenious.WebDriver.WebDriverFactory|browser Chrome
+2020-02-25 17:39:38.9406|DEBUG|Selenious.WebDriver.ChromeDriverFactory|Chrome options: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {}
+}
+2020-02-25 17:39:39.8731|INFO|Selenious.WebDriver.BrowserResizer|Set browser size to 1366x768
+2020-02-25 17:39:39.9903|INFO|Selenious.DriverСommands.CreateDriverCommand|Create webdriver in current thread: 12 : ChromeDriver
+2020-02-25 17:39:48.6855|DEBUG|nunit_selenious_example.Tests|Test is finished!
+2020-02-25 17:39:48.7296|DEBUG|nunit_selenious_example.Tests|Starting Test!
+2020-02-25 17:44:28.4106|DEBUG|nunit_selenious_example.Tests|Starting Test!
+2020-02-25 17:44:28.4497|INFO|Selenious.Implementation.WebDriverThreadLocalContainer|Marked driver in thread 13 for autoclose
+2020-02-25 17:44:28.6225|INFO|Selenious.DriverСommands.LazyDriver|No webdriver is bound to current thread: 13 - let's create a new webdriver
+2020-02-25 17:44:28.6241|INFO|Selenious.WebDriver.WebDriverFactory|browser Chrome
+2020-02-25 17:44:29.8751|DEBUG|Selenious.WebDriver.ChromeDriverFactory|Chrome options: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {}
+}
+2020-02-25 17:44:30.8260|INFO|Selenious.WebDriver.BrowserResizer|Set browser size to 1366x768
+2020-02-25 17:44:30.9620|INFO|Selenious.DriverСommands.CreateDriverCommand|Create webdriver in current thread: 13 : ChromeDriver
